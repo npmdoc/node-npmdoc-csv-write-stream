@@ -1,9 +1,14 @@
-# api documentation for  [csv-write-stream (v2.0.0)](https://github.com/maxogden/csv-write-stream)  [![npm package](https://img.shields.io/npm/v/npmdoc-csv-write-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-csv-write-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-csv-write-stream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-csv-write-stream)
+# npmdoc-csv-write-stream
+
+#### api documentation for  [csv-write-stream (v2.0.0)](https://github.com/maxogden/csv-write-stream)  [![npm package](https://img.shields.io/npm/v/npmdoc-csv-write-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-csv-write-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-csv-write-stream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-csv-write-stream)
+
 #### A CSV encoder stream that produces properly escaped CSVs.
 
-[![NPM](https://nodei.co/npm/csv-write-stream.png?downloads=true)](https://www.npmjs.com/package/csv-write-stream)
+[![NPM](https://nodei.co/npm/csv-write-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/csv-write-stream)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-csv-write-stream_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-csv-write-stream/build/screenCapture.npmPackageListing.svg)
 
@@ -46,25 +51,20 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "finnpauls",
-            "email": "derfinn@gmail.com"
+            "name": "finnpauls"
         },
         {
-            "name": "mafintosh",
-            "email": "mathiasbuus@gmail.com"
+            "name": "mafintosh"
         },
         {
-            "name": "maxogden",
-            "email": "max@maxogden.com"
+            "name": "maxogden"
         },
         {
-            "name": "slang",
-            "email": "slang800@gmail.com"
+            "name": "slang"
         }
     ],
     "name": "csv-write-stream",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/maxogden/csv-write-stream.git"
@@ -91,16 +91,6 @@
     "version": "2.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module csv-write-stream](#apidoc.module.csv-write-stream)
-
-
-
-# <a name="apidoc.module.csv-write-stream"></a>[module csv-write-stream](#apidoc.module.csv-write-stream)
 
 
 
